@@ -1,0 +1,6 @@
+[book]
+authors = ["Joshua Mo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Productionise your Rust Web Service"
