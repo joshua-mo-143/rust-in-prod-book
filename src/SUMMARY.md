@@ -7,6 +7,7 @@
 
 # Idiomatic Rust
 - [Error Handling](./idiomatic-rust/error-handling.md)
+- [Design Patterns](./idiomatic-rust/design-patterns.md)
 
 # Guides
 - [Using a Database](./guides/databases.md)
