@@ -1,4 +1,5 @@
 # Docker
+This section will describe how you can use Docker to deploy your application either to a platform that lets you deploy via Dockerfiles (Fly.io, Railway, etc)
 
 ## The basics
 Deploying with Docker is fairly easy via Rust. You can use a simple Dockerfile like this to package your web service and deploy it to an Alpine image:
