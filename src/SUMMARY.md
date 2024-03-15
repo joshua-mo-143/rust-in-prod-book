@@ -13,8 +13,7 @@
 - [Using a Database](./guides/databases.md)
   - [sqlx](./guides/databases/sqlx.md)
   - [tokio-postgres](./guides/databases/tokio-postgres.md)
-- [Using GraphQL]()
-- [Rate Limiting]()
+- [Rate Limiting](./guides/rate-limiting.md)
 - [Authentication]()
 - [Payments]()
 - [Caching]()
@@ -24,6 +23,8 @@
 - [Set up TLS/SSL](./deployments/tls-ssl.md)
 - [Docker](./deployments/docker.md)
 - [Shuttle](./deployments/shuttle.md)
+
+----------------
 
 - [Contributing](./contributing.md)
 - [Changelog](./CHANGELOG.md)
